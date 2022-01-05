@@ -14,3 +14,5 @@ fetchData(API)
         console.log(`And his dimension is: ${data.dimension}`);
     })
     .catch (err => console.error(err));
+
+    
